@@ -1,0 +1,945 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Aapnu Gujarat",
+      "publisher": "AK",
+      "tray_image_file": "tray_jobaka.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_gj_aehaalo.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "002_gj_kemcho.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "003_gj_majama.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "005_gj_hosiyarinamaar.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "006_gj_alaaoyyy.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "007_gj_hutanepremkaruchu.webp",
+          "emojis": ["??","?"]
+        },
+        {
+          "image_file": "008_gj_suvatkre.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "009_gj_bhaibhai.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "010_gj_doba.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "011_gj_vaatlagi.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "012_gj_aavjo.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "013_gj_saras.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "017_gj_magajmaari.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "018_gj_haltinothane.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "019_gj_pattarthokma.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "020_gj_takliftorehvani.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "022_gj2_shubhsavar.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "023_gj2_shubhratri.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "024_gj2_sukareche.webp",
+          "emojis": ["??","?"]
+        },
+        {
+          "image_file": "025_gj2_suchaleche.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "026_gj2_kaipan.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "034_gj2_bhoolija.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "028_gj2_kon.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "029_gj2_kyanche.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "030_gj2_kyare.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "031_gj2_ha.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "032_gj2_na.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "033_gj2_chupbes.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "035_gj2_manehairanakar.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "037_gj2_jane.webp",
+          "emojis": ["??","??"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "New Year Wishes",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_happynewyear18_rajanikant.webp"
+        },
+        {
+          "image_file": "001_newyear19anim_happynewyear1.webp"
+        },
+        {
+          "image_file": "002_happynewyear18_aliabhat.webp"
+        },
+        {
+          "image_file": "002_newyear19anim_happynewyear2.webp"
+        },
+        {
+          "image_file": "003_newyear19anim_welcome2019.webp"
+        },
+        {
+          "image_file": "004_happynewyear18_varundhawan.webp"
+        },
+        {
+          "image_file": "004_newyear19anim_newyearkiss.webp"
+        },
+        {
+          "image_file": "005_happynewyear18_diljitdosanjh.webp"
+        },
+        {
+          "image_file": "005_newyear19anim_happynewyear3.webp"
+        },
+        {
+          "image_file": "005_newyear19anim_happynewyear31.webp"
+        },
+        {
+          "image_file": "006_happynewyear18_mithunda.webp"
+        },
+        {
+          "image_file": "006_newyear19anim_newyeargoals.webp"
+        },
+        {
+          "image_file": "007_happynewyear18_tamanna.webp"
+        },
+        {
+          "image_file": "008_happynewyear18_swapniljoshi.webp"
+        },
+        {
+          "image_file": "008_newyear19anim_champagne.webp"
+        },
+        {
+          "image_file": "009_happynewyear18_saitamhankar.webp"
+        },
+        {
+          "image_file": "010_happynewyear18_nivinpauly.webp"
+        },
+        {
+          "image_file": "011_happynewyear18_shrutihasan.webp"
+        },
+        {
+          "image_file": "012_happynewyear18_manojtiwari.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "New Year Resolutions",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_resolutions_whatsyours.webp"
+        },
+        {
+          "image_file": "002_resolutions_kalsedaaruband.webp"
+        },
+        {
+          "image_file": "003_resolutions_quitsmoking.webp"
+        },
+        {
+          "image_file": "004_resolutions_jointhegym.webp"
+        },
+        {
+          "image_file": "005_resolutions_workout.webp"
+        },
+        {
+          "image_file": "006_resolutions_bullshit.webp"
+        },
+        {
+          "image_file": "007_resolutions_iwillsleepmore.webp"
+        },
+        {
+          "image_file": "008_resolutions_enjoylifemore.webp"
+        },
+        {
+          "image_file": "009_resolutions_learnguitar.webp"
+        },
+        {
+          "image_file": "010_resolutions_resolutionsarebullshit.webp"
+        },
+        {
+          "image_file": "011_resolutions_getorganised.webp"
+        },
+        {
+          "image_file": "012_resolutions_travel.webp"
+        },
+        {
+          "image_file": "013_resolutions_bemoreawesome.webp"
+        },
+        {
+          "image_file": "014_resolutions_relaxalittle.webp"
+        },
+        {
+          "image_file": "015_resolutions_healthylifestyle.webp"
+        },
+        {
+          "image_file": "016_resolutions_readmore.webp"
+        },
+        {
+          "image_file": "017_resolutions_drinkmore.webp"
+        },
+        {
+          "image_file": "018_resolutions_foddunga.webp"
+        },
+        {
+          "image_file": "019_resolutions_morelove.webp"
+        },
+        {
+          "image_file": "020_resolutions_gaveupsarcasm.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Olie",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_gisc1_mu_smile.webp"
+        },
+        {
+          "image_file": "002_gisc1_mu_surprise.webp"
+        },
+        {
+          "image_file": "003_gisc1_mu_crying.webp"
+        },
+        {
+          "image_file": "004_gisc1_mu_kissing.webp"
+        },
+        {
+          "image_file": "005_gisc1_mu_atb.webp"
+        },
+        {
+          "image_file": "006_gisc1_mu_wink.webp"
+        },
+        {
+          "image_file": "007_gisc1_mu_hearts.webp"
+        },
+        {
+          "image_file": "008_gisc1_mu_annoyed.webp"
+        },
+        {
+          "image_file": "009_gisc1_mu_superhappy.webp"
+        },
+        {
+          "image_file": "010_gisc1_mu_afraid.webp"
+        },
+        {
+          "image_file": "011_gisc1_mu_sad.webp"
+        },
+        {
+          "image_file": "012_gisc1_mu_shy.webp"
+        },
+        {
+          "image_file": "013_gisc1_mu_eating.webp"
+        },
+        {
+          "image_file": "014_gisc1_mu_wink.webp"
+        },
+        {
+          "image_file": "015_gisc1_mu_drinkingmilk.webp"
+        },
+        {
+          "image_file": "016_gisc1_mu_whatever.webp"
+        },
+        {
+          "image_file": "017_gisc1_mu_angry.webp"
+        },
+        {
+          "image_file": "018_gisc1_mu_sleeping.webp"
+        },
+        {
+          "image_file": "019_gisc1_mu_hiding.webp"
+        },
+        {
+          "image_file": "020_gisc1_mu_straightface.webp"
+        },
+        {
+          "image_file": "021_gisc1_mu_eww.webp"
+        },
+        {
+          "image_file": "022_gisc1_mu_waiting.webp"
+        },
+        {
+          "image_file": "023_gisc1_mu_hawww.webp"
+        },
+        {
+          "image_file": "024_gisc1_mu_shh.webp"
+        },
+        {
+          "image_file": "025_gisc1_mu_thinking.webp"
+        },
+        {
+          "image_file": "026_gisc1_mu_yawn.webp"
+        },
+        {
+          "image_file": "027_gisc1_mu_sick.webp"
+        },
+        {
+          "image_file": "028_gisc1_mu_victory.webp"
+        },
+        {
+          "image_file": "029_gisc1_mu_cool.webp"
+        },
+        {
+          "image_file": "030_gisc1_mu_salaam.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Poofy 1",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "002_poof_grin.webp"
+        },
+        {
+          "image_file": "003_poof_kiss.webp"
+        },
+        {
+          "image_file": "004_poof_heart.webp"
+        },
+        {
+          "image_file": "005_poof_shutup.webp"
+        },
+        {
+          "image_file": "006_poof_blah.webp"
+        },
+        {
+          "image_file": "007_poof_shocked.webp"
+        },
+        {
+          "image_file": "008_poof_sad.webp"
+        },
+        {
+          "image_file": "009_poof_crying.webp"
+        },
+        {
+          "image_file": "010_poof_angry.webp"
+        },
+        {
+          "image_file": "011_poof_laughing.webp"
+        },
+        {
+          "image_file": "012_poof_hey.webp"
+        },
+        {
+          "image_file": "013_poof_whatcha.webp"
+        },
+        {
+          "image_file": "014_poof_ciao.webp"
+        },
+        {
+          "image_file": "015_poof_cheers.webp"
+        },
+        {
+          "image_file": "016_poof_ok.webp"
+        },
+        {
+          "image_file": "017_poof_cool.webp"
+        },
+        {
+          "image_file": "018_poof_done.webp"
+        },
+        {
+          "image_file": "019_poof_stupid.webp"
+        },
+        {
+          "image_file": "020_poof_awesome.webp"
+        },
+        {
+          "image_file": "021_poof_yup.webp"
+        },
+        {
+          "image_file": "022_poof_thanks.webp"
+        },
+        {
+          "image_file": "023_poof_sorry.webp"
+        },
+        {
+          "image_file": "024_poof_bye.webp"
+        },
+        {
+          "image_file": "025_poof_nahhh.webp"
+        },
+        {
+          "image_file": "026_poof_please.webp"
+        },
+        {
+          "image_file": "027_poof_hmmm.webp"
+        },
+        {
+          "image_file": "028_poof_huh.webp"
+        },
+        {
+          "image_file": "029_poof_welcome.webp"
+        },
+        {
+          "image_file": "030_poof_goodluck.webp"
+        },
+        {
+          "image_file": "031_poof_getlost.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Poofy 2",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "032_poof_oops.webp"
+        },
+        {
+          "image_file": "033_poof_zipped.webp"
+        },
+        {
+          "image_file": "034_poof_tired.webp"
+        },
+        {
+          "image_file": "035_poof_enjoy.webp"
+        },
+        {
+          "image_file": "036_poof_dunno.webp"
+        },
+        {
+          "image_file": "037_poof_kickass.webp"
+        },
+        {
+          "image_file": "038_poof_annoyed.webp"
+        },
+        {
+          "image_file": "039_poof_ohshit.webp"
+        },
+        {
+          "image_file": "040_poof_ohplease.webp"
+        },
+        {
+          "image_file": "044_poof_twohundredpercent.webp"
+        },
+        {
+          "image_file": "045_poof_wink.webp"
+        },
+        {
+          "image_file": "064_poof_joyful.webp"
+        },
+        {
+          "image_file": "046_poof_comeone.webp"
+        },
+        {
+          "image_file": "047_poof_straightface.webp"
+        },
+        {
+          "image_file": "048_poof_justkidding.webp"
+        },
+        {
+          "image_file": "049_poof_iagree.webp"
+        },
+        {
+          "image_file": "050_poof_tensed.webp"
+        },
+        {
+          "image_file": "051_poof_letmethink.webp"
+        },
+        {
+          "image_file": "052_poof_yesboss.webp"
+        },
+        {
+          "image_file": "053_poof_goodjob.webp"
+        },
+        {
+          "image_file": "054_poof_tada.webp"
+        },
+        {
+          "image_file": "055_poof_dancing.webp"
+        },
+        {
+          "image_file": "056_poof_omg.webp"
+        },
+        {
+          "image_file": "057_poof_drooling.webp"
+        },
+        {
+          "image_file": "058_poof_reading.webp"
+        },
+        {
+          "image_file": "059_poof_hellyeah.webp"
+        },
+        {
+          "image_file": "060_poof_snoring.webp"
+        },
+        {
+          "image_file": "061_poof_shocked.webp"
+        },
+        {
+          "image_file": "062_poof_burp.webp"
+        },
+        {
+          "image_file": "063_poof_devil.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Bhai Log",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_tapori2_hayla.webp"
+        },
+        {
+          "image_file": "002_tapori2_kyathakele.webp"
+        },
+        {
+          "image_file": "003_tapori2_salambhai.webp"
+        },
+        {
+          "image_file": "004_tapori2_lochahoyla.webp"
+        },
+        {
+          "image_file": "005_tapori2_boletoh.webp"
+        },
+        {
+          "image_file": "006_tapori2_fekrahelahe.webp"
+        },
+        {
+          "image_file": "007_tapori2_kyabatbhay.webp"
+        },
+        {
+          "image_file": "008_tapori2_kyabolera.webp"
+        },
+        {
+          "image_file": "009_tapori2_laggai.webp"
+        },
+        {
+          "image_file": "010_tapori2_sahihebhay.webp"
+        },
+        {
+          "image_file": "011_tapori2_kidharjarela.webp"
+        },
+        {
+          "image_file": "012_tapori2_shanpatimatkar.webp"
+        },
+        {
+          "image_file": "013_tapori2_chalejhandu.webp"
+        },
+        {
+          "image_file": "014_tapori2_baskarsaale.webp"
+        },
+        {
+          "image_file": "015_tapori2_boltiband.webp"
+        },
+        {
+          "image_file": "016_tapori2_chaleshaane.webp"
+        },
+        {
+          "image_file": "017_tapori2_chindi.webp"
+        },
+        {
+          "image_file": "018_tapori2_doghoot.webp"
+        },
+        {
+          "image_file": "019_tapori2_fulltoohai.webp"
+        },
+        {
+          "image_file": "020_tapori2_saalahahaha.webp"
+        },
+        {
+          "image_file": "021_tapori2_tuzpedilaayala.webp"
+        },
+        {
+          "image_file": "022_tapori2_zakas.webp"
+        },
+        {
+          "image_file": "023_tapori2_rapchik.webp"
+        },
+        {
+          "image_file": "024_tapori2_sochanapadegabhay.webp"
+        },
+        {
+          "image_file": "025_tapori2_dukya.webp"
+        },
+        {
+          "image_file": "026_tapori2_yefattu.webp"
+        },
+        {
+          "image_file": "027_tapori2_khopchemelukya.webp"
+        },
+        {
+          "image_file": "028_tapori2_satakale.webp"
+        },
+        {
+          "image_file": "029_tapori2_nindareli.webp"
+        },
+        {
+          "image_file": "030_tapori2_basmarela.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Birthday Celebration",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_hbd_hbd.webp"
+        },
+        {
+          "image_file": "002_hbd_happybirthday.webp"
+        },
+        {
+          "image_file": "003_hbd_happybday.webp"
+        },
+        {
+          "image_file": "004_hbd_party.webp"
+        },
+        {
+          "image_file": "005_hbd_cantkeepcalm.webp"
+        },
+        {
+          "image_file": "006_hbd_birthdaymonth.webp"
+        },
+        {
+          "image_file": "007_hbd_birthdayweek.webp"
+        },
+        {
+          "image_file": "008_hbd_countdown.webp"
+        },
+        {
+          "image_file": "009_hbd_mahbday.webp"
+        },
+        {
+          "image_file": "010_hbd_treat.webp"
+        },
+        {
+          "image_file": "013_hbd_wish.webp"
+        },
+        {
+          "image_file": "016_hbd_bdaybumps.webp"
+        },
+        {
+          "image_file": "017_hbd_hbdhandsome.webp"
+        },
+        {
+          "image_file": "019_hbd_hbdhotness.webp"
+        },
+        {
+          "image_file": "021_hbd_hbdgorgeous.webp"
+        },
+        {
+          "image_file": "022_hbd_cake.webp"
+        },
+        {
+          "image_file": "023_hbd_hiphiphurray.webp"
+        },
+        {
+          "image_file": "027_hbd_bhaikabday.webp"
+        },
+        {
+          "image_file": "028_hbd_bestie.webp"
+        },
+        {
+          "image_file": "030_hbd_hbd.webp"
+        },
+        {
+          "image_file": "031_hbd_balloons.webp"
+        },
+        {
+          "image_file": "032_hbd_manyhappyreturns.webp"
+        },
+        {
+          "image_file": "034_hbd_girl.webp"
+        },
+        {
+          "image_file": "035_hbd_mayallyourwishes.webp"
+        },
+        {
+          "image_file": "036_hbd_partykahan.webp"
+        },
+        {
+          "image_file": "038_hbd_young.webp"
+        },
+        {
+          "image_file": "039_hbd_tumjeeyohazaaro.webp"
+        },
+        {
+          "image_file": "040_hbd_wheresmygift.webp"
+        },
+        {
+          "image_file": "041_hbd_cantkeepcalm.webp"
+        },
+        {
+          "image_file": "033_hbd_janamdin.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Majak Masti",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_gujjunick2_vandaro.webp"
+        },
+        {
+          "image_file": "002_gujjunick2_nakamo.webp"
+        },
+        {
+          "image_file": "003_gujjunick2_ghadhedo.webp"
+        },
+        {
+          "image_file": "004_gujjunick2_bodo.webp"
+        },
+        {
+          "image_file": "005_gujjunick2_dafod.webp"
+        },
+        {
+          "image_file": "006_gujjunick2_dobi.webp"
+        },
+        {
+          "image_file": "007_gujjunick2_dayo.webp"
+        },
+        {
+          "image_file": "008_gujjunick2_dodhdayo.webp"
+        },
+        {
+          "image_file": "009_gujjunick2_gando.webp"
+        },
+        {
+          "image_file": "010_gujjunick2_bakuda.webp"
+        },
+        {
+          "image_file": "011_gujjunick2_bakudi.webp"
+        },
+        {
+          "image_file": "012_gujjunick2_chakudi.webp"
+        },
+        {
+          "image_file": "013_gujjunick2_champli.webp"
+        },
+        {
+          "image_file": "014_gujjunick2_underi.webp"
+        },
+        {
+          "image_file": "015_gujjunick2_lavaro.webp"
+        },
+        {
+          "image_file": "016_gujjunick2_taklo.webp"
+        },
+        {
+          "image_file": "017_gujjunick2_ghodo.webp"
+        },
+        {
+          "image_file": "018_gujjunick2_jaadu.webp"
+        },
+        {
+          "image_file": "019_gujjunick2_lalu.webp"
+        },
+        {
+          "image_file": "020_gujjunick2_lambu.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Hi, Hello, Bye...",
+      "publisher": "AK",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"akshaykalola2017@gmail.com",
+      "publisher_website": "https://skycomp.me/stickersapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "001_hibye_heybro.webp"
+        },
+        {
+          "image_file": "002_hibye_lookwho.webp"
+        },
+        {
+          "image_file": "003_hibye_youknow.webp"
+        },
+        {
+          "image_file": "004_hibye_iheard.webp"
+        },
+        {
+          "image_file": "005_hibye_what.webp"
+        },
+        {
+          "image_file": "006_hibye_kyachahiye.webp"
+        },
+        {
+          "image_file": "007_hibye_whatsup.webp"
+        },
+        {
+          "image_file": "008_hibye_hey.webp"
+        },
+        {
+          "image_file": "009_hibye_listen.webp"
+        },
+        {
+          "image_file": "010_hibye_whatsup.webp"
+        },
+        {
+          "image_file": "011_hibye_kyakhabar.webp"
+        },
+        {
+          "image_file": "012_hibye_sup.webp"
+        },
+        {
+          "image_file": "013_hibye_kyahaal.webp"
+        },
+        {
+          "image_file": "014_hibye_hi.webp"
+        },
+        {
+          "image_file": "015_hibye_hello.webp"
+        },
+        {
+          "image_file": "016_hibye_yaad.webp"
+        },
+        {
+          "image_file": "017_hibye_byebye.webp"
+        },
+        {
+          "image_file": "018_hibye_plsdont.webp"
+        },
+        {
+          "image_file": "019_hibye_acchha.webp"
+        },
+        {
+          "image_file": "020_hibye_ramram.webp"
+        },
+        {
+          "image_file": "021_hibye_tatabye.webp"
+        },
+        {
+          "image_file": "022_hibye_smooches.webp"
+        },
+        {
+          "image_file": "023_hibye_sabtheek.webp"
+        },
+        {
+          "image_file": "024_hibye_kaamhai.webp"
+        }
+      ]
+    }
+  ]
+}

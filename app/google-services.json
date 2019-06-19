@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86714424620",
+    "firebase_url": "https://hikestikersforwa.firebaseio.com",
+    "project_id": "hikestikersforwa",
+    "storage_bucket": "hikestikersforwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86714424620:android:69bd5bbbfd19b8c4",
+        "android_client_info": {
+          "package_name": "com.akshay.hikestickerforWA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86714424620-0eq95cvhdv9eesedqstr1kjlpll9qc5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshay.hikestickerforWA",
+            "certificate_hash": "66fd179499668d74a28e1c46786002b283f6619d"
+          }
+        },
+        {
+          "client_id": "86714424620-ej43mi8uj5npojmogkq32b85dqb8lija.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-j8Z1wzdfFMSDwrOZlZyId5izzWEuLcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86714424620-ej43mi8uj5npojmogkq32b85dqb8lija.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
